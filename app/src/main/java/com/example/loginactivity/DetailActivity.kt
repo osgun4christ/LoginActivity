@@ -1,10 +1,8 @@
 package com.example.loginactivity
 
-
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.example.loginactivity.databinding.ActivityDetailBinding
-import com.example.loginactivity.databinding.ActivityMainBinding
 
 class DetailActivity : AppCompatActivity() {
     private var binding: ActivityDetailBinding? = null
